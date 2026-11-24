@@ -1,5 +1,7 @@
 # kuaishou-fill
 
+English | [简体中文](./README.zh-CN.md)
+
 An independently installable agent skill that fills a Kuaishou Creator Center video form and **stops before publishing**. It gives Claude Code, Codex, OpenClaw, ZCode, and other agents one deterministic CLI instead of asking them to improvise browser clicks.
 
 Sister project: [douyin-fill](https://github.com/huiguyy/douyin-fill). The form-flow design acknowledges [social-auto-upload](https://github.com/dreammis/social-auto-upload); human pacing acknowledges [Easel](https://github.com/ZJU-REAL/Easel). See `NOTICE`.
