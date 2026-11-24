@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+dist/
+evidence/
+history/
+.fillup-skills/
+chrome-profile*/
+cookies/
+*.mp4
+*.mov
+storage-state.json
+storage-state*.json
+*.storage-state.json
+.DS_Store

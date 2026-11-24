@@ -1,0 +1,30 @@
+Third-party acknowledgements
+============================
+
+dreammis/social-auto-upload
+---------------------------
+Project: https://github.com/dreammis/social-auto-upload
+License: MIT, Copyright (c) 2023 dreammis
+Reference revision: 3847fff (2026-10-22), with independently reviewed form-flow behavior.
+
+Douyin and Kuaishou upload ordering, selector ideas, cover handling, and schedule
+handling were adapted from this project. The fill-only implementation removes
+login automation, submission and confirmation clicks, submit retries, success
+readback, and application/database dependencies. The SAU license is preserved in
+licenses/SAU-MIT.txt.
+
+ZJU-REAL/Easel
+--------------
+Project: https://github.com/ZJU-REAL/Easel
+License: Apache License 2.0
+Reference revision: 011e10d86711c7ace3cbb01153f8915dbd018020 (2026-11-17).
+
+The asynchronous human-pacing approach is inspired by Easel's human_pace.py.
+The implementation was adapted for a smaller fill-only workflow. Easel is not
+an MIT-licensed dependency; its Apache-2.0 license is preserved in
+licenses/Easel-Apache-2.0.txt.
+
+Platform names
+--------------
+Douyin and Kuaishou are names of their respective platforms. These independent
+projects are not affiliated with or endorsed by those platforms.
